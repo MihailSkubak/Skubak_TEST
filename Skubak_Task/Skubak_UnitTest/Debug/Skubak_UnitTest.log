@@ -1,0 +1,7 @@
+﻿  unittest1.cpp
+d:\программирование\прога\skubak_task\skubak_task\skubak_task.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\прога\skubak_task\skubak_task\skubak_task.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\прога\skubak_task\skubak_task\skubak_task.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\прога\skubak_task\skubak_task\skubak_task.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\прога\skubak_task\skubak_task\skubak_task.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+  Skubak_UnitTest.vcxproj -> D:\программирование\прога\Skubak_Task\Debug\Skubak_UnitTest.dll
